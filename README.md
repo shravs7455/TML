@@ -1,2 +1,2 @@
 # TML
-Machine Learning
+Machine Learning Projects
